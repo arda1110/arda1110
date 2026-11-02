@@ -11,5 +11,5 @@ Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim.
 - C, Python, HTML5, CSS3, Git & GitHub
 
 ### İletişim
-- LinkedIn: [linkedin.com/in/süleyman-arda-çelik-44a10a355/](https://linkedin.com)
+- LinkedIn: [https://www.linkedin.com/in/süleyman-arda-çelik-44a10a355/](https://linkedin.com)
 - E-posta: arda1110@outlook.com
