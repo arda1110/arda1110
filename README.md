@@ -1,16 +1,15 @@
-## Hi there 👋
+# Merhaba, Ben Süleyman Arda 👋
 
-<!--
-**arda1110/arda1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bursa Uludağ Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Yazılım dünyasına C dili ve temel algoritmalarla adım attım; veri analitiği ve finansal teknolojiler (FinTech) üzerine kendimi geliştirmeyi hedefliyorum.
 
-Here are some ideas to get you started:
+### Nelerle Uğraşıyorum?
+- Üniversite dersleri kapsamında C diliyle problem çözme ve algoritma pratiği
+- Temel web geliştirme (HTML & CSS)
+- Finansal piyasa analizleri ve algoritmik düşünme yapısı
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### İlgilendiğim Teknolojiler
+- C, Python, HTML5, CSS3, Git & GitHub
+
+### İletişim
+- LinkedIn: [linkedin.com/in/süleyman-arda-çelik-44a10a355/](https://linkedin.com)
+- E-posta: arda1110@outlook.com
